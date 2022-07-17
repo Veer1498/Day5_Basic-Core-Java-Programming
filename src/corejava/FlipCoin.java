@@ -27,7 +27,6 @@ public class FlipCoin {
 		 * The End.
 		 * 
 		 */
-		// TODO Auto-generated method stub
 		System.out.println("Welcome to Flip Coin Program");
 		int i,j=0,k=0;
 		Scanner sc = new Scanner(System.in);
