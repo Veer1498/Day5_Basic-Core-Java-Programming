@@ -6,7 +6,7 @@ public class TwoDimArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 System.out.println("2D Array");
+		    System.out.println("2D Array");
 	        Scanner scanner = new Scanner(System.in);
 	       
 	        System.out.println("Please provide number of rows => x");
